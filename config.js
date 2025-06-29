@@ -24,7 +24,7 @@ module.exports = {
   OWNER_NUM: process.env.OWNER_NUM || "9471767300", // Add the owner's number here
   OWNER_NAME: process.env.OWNER_NAME || "FIXO XD", // Add the owner's name here
   OWNER_EMAIL: process.env.OWNER_EMAIL || "nethsaraoshan6@gmail.com", // Add your email address here
-  OWNER_LOCATION: process.env.OWNER_LOCATION || "Africa/Douala", // Add your location here
+  OWNER_LOCATION: process.env.OWNER_LOCATION || "sri lanka/Urubokka", // Add your location here
   OWNER_GITHUB: process.env.OWNER_GITHUB || "https://github.com/HansTech1", // Add your GitHub profile URL here
 
   // API Keys for third-party services
