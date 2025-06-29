@@ -110,7 +110,7 @@ const robin = makeWASocket({
   ║   𝐅𝐈𝐗𝐎 𝐗𝐌𝐃               
   ║ > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ Cyber Kings Team         
   ╚═════════════════╝`;
-      let up1 = `Hello Mr Hans i succesfully deployed FIXO XMD`;
+      let up1 = `Hello Mr Fixo Xd i succesfully deployed FIXO XMD`;
 
       robin.sendMessage(ownerNumber + "@s.whatsapp.net", {
         image: {
