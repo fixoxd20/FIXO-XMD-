@@ -21,7 +21,7 @@
 </div>
 
 
-[![PAIR FIXO XMD-V1](https://img.shields.io/badge/PAIR%20-FIXO%20XMD%20V1-white)](https://github.com/Oshan123466/FIXO-XMD-/fork)
+[![PAIR FIXO XMD-V1](https://img.shields.io/badge/PAIR%20-FIXO%20XMD%20V1-white)](https://fixo-xmd-pair-w7p7.onrender.com/pair)
 
 
 <img src="https://readme-typing-svg.demolab.com?font=Jersey+20+Charted&size=30&pause=1000&color=00FF00&width=435&lines=RELES+DAY+COMMING-+SOON" alt="Typing SVG" />
