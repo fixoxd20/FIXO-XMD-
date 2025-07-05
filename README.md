@@ -57,5 +57,5 @@
 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=00FF00&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=THENUWA-XMD+V1;DIPLOY+-+YOU+-+POWERED+BY;FIXO+-+XD;VOICE+BY;ASHI+THANKS;EDITAR+BY;FIXO+XD+THANKS;MY+PROJECT;MY+FULL+HELP;LOGOS+BY+USHAN+THANKS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=00FF00&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=RIXO-XMD+V1;DIPLOY+-+YOU+-+POWERED+BY;FIXO+-+XD;VOICE+BY;ASHI+THANKS;EDITAR+BY;FIXO+XD+THANKS;MY+PROJECT;MY+FULL+HELP;LOGOS+BY+USHAN+THANKS" alt="Typing SVG" /></a>
 </p>
